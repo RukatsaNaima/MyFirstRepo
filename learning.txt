@@ -1,1 +1,2 @@
+ ["What I have learned from this course"]
 This course has taught me how to use Git for version control and collaborate on projects using GitHub. I'm learning how to track changes and work more like a software engineer.
